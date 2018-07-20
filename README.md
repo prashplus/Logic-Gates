@@ -9,11 +9,9 @@ If you are not familier with the Tensorflow then visit my repository: [ML](https
 
 Setup the prerequisites and start following the below steps.
 
-## 
-
 
 ## Authors
 
 * **Prashant Piprotar** - - [Prash+](https://github.com/prashplus)
-and visit my blog for more Tech Stuff
+and visit my blog [Nimbus](http://prashplus.blogspot.com) for more Tech Stuff
 ### http://www.prashplus.com
