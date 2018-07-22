@@ -14,7 +14,7 @@ model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='mean_squared_error',optimizer='adam', metrics=['binary_accuracy'])
 
 # Train Model
-model.fit(input, output, nb_epoch=600, verbose=2)
+model.fit(input, output, nb_epoch=300, verbose=2)
 
 # Validation
 print(model.predict(input).round())
