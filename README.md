@@ -34,7 +34,7 @@ The Loss Function is the bread and butter of modern Machine Learning. It takes y
 
 The choice of Optimisation Algorithms and Loss Functions for a Deep learning model can play a big role in producing optimum and faster results.
 
-This [Loss function MD]() post will help you to quickly gain the usefull info if you are not much familier its importance in the Neural Networks.
+This [Loss function MD](https://github.com/prashplus/Logic-Gates/blob/master/LOSS.md) post will help you to quickly gain the usefull info if you are not much familier its importance in the Neural Networks.
 
 ## Model.Compile
 
