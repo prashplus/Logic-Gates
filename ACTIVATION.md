@@ -131,3 +131,11 @@ It has become very popular in the past couple of years. It was recently proved t
 
 
 There are variations in ReLu to mitigate the issue of **Dying ReLU** issue by simply making the horizontal line into non-horizontal component . for example y = 0.01x for x<0 will make it a slightly inclined line rather than horizontal line. This is **Leaky ReLu**. There are other variations too. The main idea is to let the gradient be non zero and recover during training eventually.
+
+You can also refer this [site](http://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html#)
+
+## Authors
+
+* **Prashant Piprotar** - - [Prash+](https://github.com/prashplus)
+and visit my blog [Nimbus](http://prashplus.blogspot.com) for more Tech Stuff
+### http://www.prashplus.com

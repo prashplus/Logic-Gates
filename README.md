@@ -26,8 +26,17 @@ Use Keras if you need a deep learning library that:
 ## Activation Functions
 
 Just go through this brief intro the popular [Activation Functions](https://github.com/prashplus/Logic-Gates/blob/master/ACTIVATION.md). You will get all the required things to know before going through all the programs.
+Or you can visit my blog at : [Activation Functions](http://prashplus.blogspot.com/2018/07/activation-functions-neural-networks.html)
 
-### Model.Compile
+## Loss Functions
+
+The Loss Function is the bread and butter of modern Machine Learning. It takes your algorithm from theoretical to practical and transforms neural networks from glorified matrix multiplication into Deep Learning.
+
+The choice of Optimisation Algorithms and Loss Functions for a Deep learning model can play a big role in producing optimum and faster results.
+
+This [Loss function MD]() post will help you to quickly gain the usefull info if you are not much familier its importance in the Neural Networks.
+
+## Model.Compile
 
 In order for the neural network to be able to make the right adjustments to the weights we need to be able to tell how good our model is performing. Or to be more specific, with neural nets we always want to calculate a number that tells us how bad our model performs and then try to get that number lower.
 
@@ -36,6 +45,11 @@ That number is the so called loss and we can decide how the loss is calculated. 
 That brings us to the next parameter, the **optimizer**. The job of the optimizer is it to find the right adjustments for the weights. I’m sure by now you may guess how we picked adam as our optimizer of choice. Right, because it’s a well proven one!
 
 The third parameter, **metrics** is actually much more interesting for our learning efforts. Here we can specify which metrics to collect during the training. We are interested in the binary_accuracy which gives us access to a number that tells us exactly how accurate our predictions are.
+
+
+## TFLearn
+
+[tflearn](https://avatars1.githubusercontent.com/u/16848261?s=280&v=4)
 
 ## Authors
 
