@@ -23,12 +23,12 @@ Use Keras if you need a deep learning library that:
 * Supports both convolutional networks and recurrent networks, as well as combinations of the two.
 * Runs seamlessly on CPU and GPU.
 
-## Activation Functions
+### Activation Functions
 
 Just go through this brief intro the popular [Activation Functions](https://github.com/prashplus/Logic-Gates/blob/master/ACTIVATION.md). You will get all the required things to know before going through all the programs.
 Or you can visit my blog at : [Activation Functions](http://prashplus.blogspot.com/2018/07/activation-functions-neural-networks.html)
 
-## Loss Functions
+### Loss Functions
 
 The Loss Function is the bread and butter of modern Machine Learning. It takes your algorithm from theoretical to practical and transforms neural networks from glorified matrix multiplication into Deep Learning.
 
@@ -36,7 +36,7 @@ The choice of Optimisation Algorithms and Loss Functions for a Deep learning mod
 
 This [Loss function MD](https://github.com/prashplus/Logic-Gates/blob/master/LOSS.md) post will help you to quickly gain the usefull info if you are not much familier its importance in the Neural Networks.
 
-## Model.Compile
+### Model.Compile
 
 In order for the neural network to be able to make the right adjustments to the weights we need to be able to tell how good our model is performing. Or to be more specific, with neural nets we always want to calculate a number that tells us how bad our model performs and then try to get that number lower.
 
