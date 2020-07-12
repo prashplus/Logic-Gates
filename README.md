@@ -1,5 +1,8 @@
 # Logic Gates
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
 A logic gate is an idealized or physical device implementing a Boolean function; that is, it performs a logical operation on one or more binary inputs and produces a single binary output.
 But, here this repository in not meant to tell you about logic gates but to tell you about Neural Networks by implementing logic gates using it.
 
